@@ -1,0 +1,19 @@
+{
+  "name": "@aleksandr-ljabin/hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksandr-Ljabin/HW-platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksandr-Ljabin/HW-platforms/issues"
+  },
+  "homepage": "https://github.com/Aleksandr-Ljabin/HW-platforms#readme"
+}
